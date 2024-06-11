@@ -3,3 +3,21 @@ div{
     height: 40vh;
     background-color: orange;
 }
+.main{
+    width: 100vw;
+    height: 70vh;
+   border: 2px solid red ;
+   display: flex;
+}
+.parent1{
+    border: 2px solid black;
+    width: 30vw;
+    height: 50vh;
+    background-color: black;
+}
+.parent2{
+    border: 2px solid blue;
+    width: 30vw;
+    height: 50vh;
+    background-color: blue;
+}
